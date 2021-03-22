@@ -1,4 +1,8 @@
-html { background-image: url(PBJ.png); background-repeat: repeat-y;}
+html { background-color: grey;
+  background-image: url(PBJ.png); 
+  background-repeat: repeat-y;
+}
+
 h1 { 
   color: orange; 
   text-align: center;
@@ -8,6 +12,6 @@ p { font-size: 130%; }
 
 #intro { background-color: yellow; }
 
-.first { font-size: 200%; }
+.first { font-size: 200%; font-weight: bold; }
 
-#intro .first { color: red; }
+#intro .first { color: ; }
