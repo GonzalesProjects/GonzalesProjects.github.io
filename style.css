@@ -5,16 +5,16 @@ html { background-color: #d9d4d5;
 
 h1 { 
   color: orange; 
-  -webkit-text-stroke: 2px white;
+  -webkit-text-stroke: 1px white;
   text-align: center;
   font-size: 500%;
   font-weight: bold;
 }
 
-p, ul { font-size: 130%; -webkit-text-stroke: 1px white; }
+p, ul { font-size: 130%; }
 
 
 
-.first { font-size: 200%; font-weight: bold; -webkit-text-stroke: 2px white; background-color: grey;}
+.first { font-size: 200%; font-weight: bold; -webkit-text-stroke: 1px white; background-color: grey;}
 
 
