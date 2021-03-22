@@ -11,9 +11,16 @@ h1 {
   font-weight: bold;
 }
 
+#steps{
+  width: 35%;
+  position: absolute;
+  top: 0;
+  left: 2.5%;
+  margin: 0; 
+  background-color: white; 
+}
+
 p, ul { font-size: 130%; }
-
-
 
 .first { font-size: 200%; font-weight: bold; -webkit-text-stroke: 1px white; background-color: grey;}
 
