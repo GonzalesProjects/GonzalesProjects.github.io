@@ -12,6 +12,6 @@ p { font-size: 130%; }
 
 #intro { background-color: yellow; }
 
-.first { font-size: 200%; font-weight: bold; }
+.first { font-size: 200%; font-weight: bold; background-color: purple;}
 
 #intro .first { color: ; }
