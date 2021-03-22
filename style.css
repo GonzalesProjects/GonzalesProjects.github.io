@@ -3,15 +3,10 @@ h1 {
   text-align: center;
 }
 
-p {
-  font-size: 130%;
-}
+p { font-size: 130%; }
 
-#intro {
-  background-color: yellow;
-}
+#intro { background-color: yellow; }
 
-.first {
-  font-size: 200%;
-}
+.first { font-size: 200%; }
 
+#intro .first { color: red; }
