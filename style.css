@@ -10,10 +10,10 @@ h1 {
   font-weight: bold;
 }
 
-p { font-size: 130%; }
+p { font-size: 130%; -webkit-text-stroke: 1px white; }
 
 
 
-.first { font-size: 200%; font-weight: bold; -webkit-text-stroke: 1em white; background-color: purple;}
+.first { font-size: 200%; font-weight: bold; -webkit-text-stroke: 2px white; background-color: grey;}
 
 
