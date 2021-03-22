@@ -10,7 +10,7 @@ h1 {
   font-weight: bold;
 }
 
-p { font-size: 130%; -webkit-text-stroke: 1px white; }
+p, ul { font-size: 130%; -webkit-text-stroke: 1px white; }
 
 
 
