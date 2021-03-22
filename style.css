@@ -20,6 +20,15 @@ h1 {
   background-color: white; 
 }
 
+#media {
+  width: 35%;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  margin: 0; 
+  background-color: white; 
+}
+
 p, ul { font-size: 130%; }
 
 .first { font-size: 200%; font-weight: bold; background-color: grey;}
