@@ -5,6 +5,7 @@ html { background-color: #d9d4d5;
 
 h1 { 
   color: orange; 
+  -webkit-text-stroke: 2px white;
   text-align: center;
   font-size: 500%;
   font-weight: bold;
