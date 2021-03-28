@@ -13,16 +13,17 @@ h1 {
 
 #steps{
   width: 35%;
-  position: absolute;
+  float: left;
   top: 20%;
   left: 12.5%;
   margin: 0; 
   background-color: white; 
+  vertical-align: left;
 }
 
 #media {
   width: 35%;
-  position: absolute;
+  float: right;
   top: 20%;
   left: 52.5%;
   margin: 0; 
